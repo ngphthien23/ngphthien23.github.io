@@ -19,6 +19,7 @@ Time Clock Management | C#, ASP.NET, HTML/CSS, SQL Server 		Dec. 2023 – Presen
 -	Improve time-tracking process for small businesses
 -	Applied HTML/CSS and JavaScript as the frontend
 -	Used SQL Server Management Studio 18 as database management tool
+
 E-commerce Fashion Frontend Website | HTML/CSS. JavaScript 	  Sep. 2022 – Oct. 2022
 -	Implemented a stable and organized HTML structure
 -	Applied CSS to promoted User Interface
